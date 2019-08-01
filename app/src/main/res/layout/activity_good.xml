@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/goods"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="28dp"
+        tools:ignore="MissingConstraints" />
+
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.5"
+        android:background="@drawable/green_gradient"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Products"
+            android:textSize="20sp"
+            android:layout_marginBottom="7dp"
+            android:gravity="center"/>
+
+        <Spinner
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:id="@+id/sp_listproducts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:padding="10dp" />
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

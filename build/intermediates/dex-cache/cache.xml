@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\703aa3e5c5596bfe262a51b54b8c6c4c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4521b7f52482aa459b223453bd0de34b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\96edb494a42cd675d485d3aaaabac0b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f31ca9fe80c8b12475336d28d8c0f443\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\bdd2e25b92a9ca94f7a430980f9563cc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37028eeb32233dad5092a550b7d32e22393515d1">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\7694e9f4971d00326d2c2506220f6ce3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1efcd359c3e2009ea2398af967f56210599fb652">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\484f77b94001ded5d0a2d0efc95a4713\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c85659796c1b1be1902df4cd24ffc86e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\645ab204a1564f74d5ad4f1ee880a007\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\df6460509d63ab0915b5e616256631f1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2d1e79b55eb6b4cc83ef5c318cfb4030\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\cf7d6243beb59937a13c52177db79b02\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\cb0f1a5002a7f07ca4b2cd7597f9f377\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\9597be3928eb52311602804276f74df1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff9f9e9d4812d6a9a7132ebda8bad77797387abb">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\b2222a06f8e7590f17a3b19e7fea1ece\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3361db105e8a5874681621ede4c220c9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d34bc61d278ce3bf38c7a93b9fb33fa5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\bf68a8676a31815b9d8d2356b17b59ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ad50ad7e41dff89974582cd87e2543b8eb15f760">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gunje\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\My Android Projects\GST Calculator\GST-Calculator-master\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+
+</items>

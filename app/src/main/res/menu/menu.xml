@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/help"
+        android:layout_width="match_parent"
+        android:title="Help" />
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:layout_width="match_parent" />
+ <!--   <item
+        android:id="@+id/products"
+        android:layout_width="match_parent"
+        android:title="Goods"/>-->
+</menu>
